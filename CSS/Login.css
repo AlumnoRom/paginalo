@@ -1,0 +1,7 @@
+img{
+	width: 100%;
+}
+body{
+	background: url(Fondo.jpeg);
+	background-size: cover;
+}
